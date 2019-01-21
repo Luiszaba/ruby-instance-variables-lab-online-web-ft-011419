@@ -12,4 +12,3 @@ lassie = Dog.new
 lassie.name = "Lassie" # => "Lassie"
 
 puts lassie.name
-end
